@@ -1,5 +1,2 @@
 # KUNTAL
-
-
-
-
+MY FIRST PROJECT
