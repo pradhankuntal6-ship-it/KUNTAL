@@ -1,6 +1,6 @@
 # KUNTAL
 # Cardiovascular Disease Prediction
 # A SIMPLE MACHINE LEARNING MODEL TO PREDICT HEART DISEASE
-# CODE
+
 
 
